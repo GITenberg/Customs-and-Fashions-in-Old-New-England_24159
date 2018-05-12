@@ -1,0 +1,28 @@
+_repo: Customs-and-Fashions-in-Old-New-England_24159
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- To 1775'
+- !lcc 'F001'
+title: Customs and Fashions in Old New England
+url: http://www.gutenberg.org/ebooks/24159
